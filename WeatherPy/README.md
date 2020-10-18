@@ -38,22 +38,22 @@ This project was to create a random list of 500+ cities from across the globe an
 
 ![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/WeatherPy/images/Picture1.png)
 
-####This plot shows Max Temperature is lower at the planets poles and increases as you approach the equator.
+This plot shows Max Temperature is lower at the planets poles and increases as you approach the equator.
 
 
 ![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/WeatherPy/images/Picture2.png)
 
-####Humidity can vary widely but is relatively high for most cities across the entire planet
+Humidity can vary widely but is relatively high for most cities across the entire planet
  
 
 ![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/WeatherPy/images/Picture3.png)
 
-####Cloudiness can vary widely across the entire planet, but tends to the extremes of no clouds to heavy overcast with relatively few in the middle
+Cloudiness can vary widely across the entire planet, but tends to the extremes of no clouds to heavy overcast with relatively few in the middle
 
 
 ![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/WeatherPy/images/Picture4.png)
 
-####Wind speed is relatively low across the planet but increases as you approach the higher lattitudes
+Wind speed is relatively low across the planet but increases as you approach the higher lattitudes
 
 
 6) The final step in the project is to conduct linear regression analysis of the same data as above but split to look at the Northern and Southern Hemispheres independently of each other
@@ -65,21 +65,21 @@ This project was to create a random list of 500+ cities from across the globe an
 
 ![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/WeatherPy/images/Picture6.png)
 
-####This plot shows Max Temperature is lower at the planets poles and increases as you approach the equator.
+This plot shows Max Temperature is lower at the planets poles and increases as you approach the equator.
 
 
 ![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/WeatherPy/images/Picture7.png)
 
 ![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/WeatherPy/images/Picture8.png)
 
-####Humidity can vary widely but is relatively high for most cities across the entire planet
+Humidity can vary widely but is relatively high for most cities across the entire planet
 
 
 ![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/WeatherPy/images/Picture9.png)
 
 ![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/WeatherPy/images/Picture10.png)
 
-####Cloudiness can vary widely across the entire planet, but tends to the extremes of no clouds to heavy overcast with relatively few in the middle
+Cloudiness can vary widely across the entire planet, but tends to the extremes of no clouds to heavy overcast with relatively few in the middle
 
 
 
@@ -87,4 +87,4 @@ This project was to create a random list of 500+ cities from across the globe an
 
 ![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/WeatherPy/images/Picture12.png)
 
-####Wind speed is relatively low across the planet but increases as you approach the higher lattitudes
+Wind speed is relatively low across the planet but increases as you approach the higher lattitudes
