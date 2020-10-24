@@ -24,7 +24,7 @@ This project was to import a list of 500+ cities from across the globe create a 
 
 1) The project begins with importing the DataFrame of weather for 500+ random worldwide cities cities.csv created by WeatherPy. This is accomplished by using a read_csv() command.
 
-![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/images/Picture1.png)
+![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/VacationPy/images/Picture1.png)
 
 2) The program then configures gmaps to display a 600 pixel by 500 pixel hybrid google world map. It then used the latitude and longitude positional data to generate a heat map layer of the humidity values for each city and overlays it onto the map. The heat map display humidity values in a green (low value) to red (high value) color scale.  
 
@@ -33,7 +33,3 @@ This project was to import a list of 500+ cities from across the globe create a 
 4) The program then conducts an API call for each of the vacation cities to find a hotel within a radius of 5000 meters from the city latitude and longitude positional data. A column holding the names of the hotels is appended to the vac_cities DataFrame.
 
 5) A information box is formatted to display the hotel information along with city and country names and then again uses the latitude and longitude positional data to generate a marker layer and overlays it on the map created earlier. The marker layer allows you to select the individual markers and displays the information box with that particular hotel's information.
-
-
-
-
