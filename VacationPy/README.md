@@ -26,10 +26,26 @@ This project was to import a list of 500+ cities from across the globe create a 
 
 ![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/VacationPy/images/Picture1.png)
 
-2) The program then configures gmaps to display a 600 pixel by 500 pixel hybrid google world map. It then used the latitude and longitude positional data to generate a heat map layer of the humidity values for each city and overlays it onto the map. The heat map display humidity values in a green (low value) to red (high value) color scale.  
+2) The program then configures gmaps to display a 600 pixel by 500 pixel hybrid google world map. 
+
+![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/VacationPy/images/Picture2.png)
+
+It then used the latitude and longitude positional data to generate a heat map layer of the humidity values for each city and overlays it onto the map. The heat map display humidity values in a green (low value) to red (high value) color scale.  
+
+![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/VacationPy/images/Picture2b.png)
 
 3) A new DataFrame is created (vac_cities) and is filtered by max temperature, humidity and cloudiness to find a few cities (10-15) with the ideal weather conditions for vacationing there. 
 
+![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/VacationPy/images/Picture3.png)
+
 4) The program then conducts an API call for each of the vacation cities to find a hotel within a radius of 5000 meters from the city latitude and longitude positional data. A column holding the names of the hotels is appended to the vac_cities DataFrame.
 
-5) A information box is formatted to display the hotel information along with city and country names and then again uses the latitude and longitude positional data to generate a marker layer and overlays it on the map created earlier. The marker layer allows you to select the individual markers and displays the information box with that particular hotel's information.
+![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/VacationPy/images/Picture4.png)
+
+5) A information box is formatted to display the hotel information along with city and country names and then again uses the latitude and longitude positional data to generate a marker layer and overlays it on the map created earlier. 
+
+![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/VacationPy/images/Picture5.png)
+
+The marker layer allows you to select the individual markers and displays the information box with that particular hotel's information.
+
+![alt tag](https://github.com/robertjbowen/python-api-challenge/blob/main/VacationPy/images/Picture5b.png)
